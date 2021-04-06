@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/renceabishek/wedding-portfolio/issues"
   },
-  "homepage": "https://github.com/renceabishek/wedding-portfolio#readme"
+  "homepage": "https://github.com/renceabishek/wedding-portfolio#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
